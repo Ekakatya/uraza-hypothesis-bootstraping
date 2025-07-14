@@ -1,3 +1,4 @@
+![Matrix](Title.png)
 # 📊 Impact of Uraza-Bayram on FMCG Sales: A Bootstrapping Analysis
 
 ## 🧾 Project Overview
